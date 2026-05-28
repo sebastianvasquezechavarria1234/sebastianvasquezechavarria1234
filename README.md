@@ -1,11 +1,15 @@
-# Hey 👋 I'm <a href="https://sebas-dev.vercel.app/">Sebastián</a>
+# <i>Hey 👋 I'm <a href="https://sebas-dev.vercel.app/"><u>Sebastián</u></a></i>
 
-Web Developer passionate about building immersive and visually engaging digital experiences ✨
+🌐 Web Developer passionate about building immersive, animated, and visually engaging digital experiences ✨
 
-Over the last few years, I’ve worked across different areas of web development — from crafting modern UI/UX interfaces and interactive frontend systems to creating smooth animations with Framer Motion, GLSL, SVG Motion, and other creative technologies focused on delivering cinematic and memorable user experiences.
+Over the last few years, I’ve worked across different areas of web development 💻 — from crafting modern <a href="https://myke-towers.vercel.app/">UI/UX web experiences</a> 🎨 and interactive frontend systems to creating smooth animations using Framer Motion ⚡, GLSL 🌌, SVG Motion 🌀, and other creative technologies focused on cinematic and memorable user experiences.
 
-I also specialize in <a href="https://github.com/sebastianvasquezechavarria1234/solaryn">3D web experiences with Three.js</a> 🌌, developing interactive scenes, animated environments, camera systems, transitions, and immersive interfaces that make the web feel more dynamic and alive.
+I also specialize in <a href="https://github.com/sebastianvasquezechavarria1234/solaryn">3D web experiences with Three.js</a> 🚀, developing interactive scenes 🎥, animated environments 🌠, camera systems 🎬, transitions ✨, and immersive interfaces that make the web feel more dynamic and alive.
 
-Beyond frontend development, I’ve worked on <a href="https://zenith-gpt.vercel.app/">AI agent integrations</a> 🤖 using technologies such as Groq, Gemini, and modern AI workflows, alongside backend architectures, REST APIs, databases, authentication systems, and fullstack applications.
+Beyond frontend development, I’ve worked on <a href="https://zenith-gpt.vercel.app/">AI agent integrations</a> 🤖 using technologies such as Groq, Gemini, and modern AI workflows 🧠, alongside backend architectures 🛠️, REST APIs 🔗, databases 🗄️, authentication systems 🔐, and fullstack applications ⚙️.
 
-I enjoy combining design, motion, and engineering to build experiences people genuinely enjoy exploring.
+🔥 I enjoy combining design, motion, creativity, and engineering to craft experiences people genuinely enjoy exploring.
+
+```bash
+> Transforming ideas into immersive digital experiences...
+```
