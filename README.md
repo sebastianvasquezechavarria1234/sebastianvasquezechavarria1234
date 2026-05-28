@@ -11,7 +11,7 @@
   Web Developer focused on immersive and modern digital experiences.
 </sub>
 
-<br><br>
+
 
 <sub>
   Over the last few years, I’ve worked across different areas of web development — from creating
@@ -19,7 +19,7 @@
   animated interfaces with Framer Motion, GLSL, SVG Motion, and interactive frontend systems with smooth and cinematic interactions.
 </sub>
 
-<br><br>
+
 
 <sub>
   I also create
@@ -27,7 +27,7 @@
   including animated scenes, camera systems, transitions, immersive environments, and visually dynamic interfaces.
 </sub>
 
-<br><br>
+
 
 <sub>
   Beyond frontend development, I’ve worked on
@@ -35,7 +35,7 @@
   REST APIs, databases, authentication systems, and fullstack architectures using modern technologies and workflows.
 </sub>
 
-<br><br>
+
 
 <p align="left">
   <img
