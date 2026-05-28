@@ -1,11 +1,9 @@
 # Hey 👋 I'm Sebastián
 
-Frontend Developer focused on immersive and animated web experiences.
+Frontend Developer especializado en experiencias web inmersivas, animadas y con mucho detalle.
 
-I love working on [web design](https://myke-towers.vercel.app/), interactive interfaces, SVG motion, Framer Motion, shaders, and cinematic UI.
+Me encanta construir interfaces con [web design](https://myke-towers.vercel.app/), [3D experiences with Three.js](https://github.com/sebastianvasquezechavarria1234/solaryn), SVG motion, Framer Motion, GLSL y animaciones que hacen que la gente quiera seguir explorando.
 
-I also create [3D experiences](https://github.com/sebastianvasquezechavarria1234/solaryn) using GLSL and creative frontend development.
+También he trabajado en la implementación de [agentes de IA](https://zenith-gpt.vercel.app/) y en backend, creando soluciones completas con una visión técnica y creativa.
 
-Besides frontend, I work with backend systems, APIs, and [AI agent integrations](https://zenith-gpt.vercel.app/).
-
-These days, I mainly build things with React, Next.js, Three.js, Tailwind CSS, TypeScript, and Node.js.
+Trabajo principalmente con React, Next.js, TypeScript, Tailwind CSS, Three.js, Node.js y Express.
