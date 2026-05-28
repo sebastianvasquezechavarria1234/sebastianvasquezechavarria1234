@@ -10,6 +10,9 @@ Beyond frontend development, I’ve worked on <a href="https://zenith-gpt.vercel
 
 🔥 I enjoy combining design, motion, creativity, and engineering to craft experiences people genuinely enjoy exploring.
 
-```bash
-> Transforming ideas into immersive digital experiences...
-```
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&width=500&lines=%3E+Transforming+ideas+into+immersive+digital+experiences...;%3E+Building+cinematic+interfaces+for+the+modern+web...;%3E+Creating+motion-driven+frontend+experiences..."
+    alt="Typing SVG"
+  />
+</p>
