@@ -1,4 +1,6 @@
-# <i>Hey 👋 I'm <a href="https://sebas-dev.vercel.app/"><u>Sebastián</u></a></i>
+<h1 align="left">
+  Hey 👋 I'm <a href="https://sebas-dev.vercel.app/"><u>Sebastián</u></a>
+</h1>
 
 Web Developer focused on immersive and modern digital experiences.
 
