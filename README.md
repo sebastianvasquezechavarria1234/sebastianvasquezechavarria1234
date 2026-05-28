@@ -1,55 +1,11 @@
 # Hey 👋 I'm Sebastián
 
-Frontend Developer focused on creating immersive and animated web experiences.
+Frontend Developer focused on immersive and animated web experiences.
 
-I build modern interfaces with smooth interactions, cinematic UI, 3D environments, SVG animations, shaders, and creative motion design.  
-Most of my work mixes design + code to create experiences that feel alive.
+I love working on [web design](https://myke-towers.vercel.app/), interactive interfaces, SVG motion, Framer Motion, shaders, and cinematic UI.
 
-These days, I work mainly with:
+I also create [3D experiences](https://github.com/sebastianvasquezechavarria1234/solaryn) using GLSL and creative frontend development.
 
-- React / Next.js
-- Tailwind CSS
-- Framer Motion
-- GLSL & Three.js
-- SVG animations
-- Creative Frontend Development
-- UI/UX interactions
-- Fullstack applications
+Besides frontend, I work with backend systems, APIs, and [AI agent integrations](https://zenith-gpt.vercel.app/).
 
-I also work on backend architecture and APIs, but my main passion is crafting visually powerful frontend experiences.
-
----
-
-### Frontend things I love
-
-- ✨ Advanced animations
-- 🎬 Motion design on the web
-- 🌌 3D experiences
-- ⚡ Interactive UI
-- 🎨 Minimal interfaces
-- 🧠 Creative development
-- 🔥 GLSL shaders
-- 🧩 SVG motion systems
-
----
-
-### Currently building
-
-- Immersive web experiments
-- 3D interactive interfaces
-- Animated portfolio concepts
-- Experimental UI systems
-- Creative developer tools
-
----
-
-### Tech Stack
-
-```txt
-Frontend
-React • Next.js • Tailwind • Framer Motion • GSAP
-Three.js • GLSL • SVG • TypeScript • Astro
-
-Backend
-Node.js • Express • MongoDB • MySQL • Sequelize
-REST APIs • Authentication • Fullstack Systems
+These days, I mainly build things with React, Next.js, Three.js, Tailwind CSS, TypeScript, and Node.js.
