@@ -4,10 +4,10 @@
 
 
 
-# 👋 Hola, soy Sebastián
+# 👋 Hi, I'm Sebastián
 
-Me apasiona transformar ideas en experiencias digitales donde la creatividad encuentra su lugar en el código. A través del desarrollo Full Stack, la  [Inteligencia Artificial](https://cosmos-museum.vercel.app/) y la [Web 3D](https://cosmos-museum.vercel.app/), busco dar vida a proyectos que no solo funcionan, sino que también inspiran.
+I am passionate about transforming ideas into digital experiences where creativity finds its place in code. Through Full Stack development, [Artificial Intelligence](https://cosmos-museum.vercel.app/) and [3D Web](https://cosmos-museum.vercel.app/), I strive to bring projects to life that not only work, but also inspire.
 
-Cada línea de código es una oportunidad para construir algo nuevo; cada desafío, una invitación a aprender; y cada proyecto, un espacio donde la imaginación puede convertirse en realidad. Me encanta crear experiencias digitales centradas en el diseño y la experiencia de usuario, donde la estética y la funcionalidad trabajan en armonía.
+Every line of code is an opportunity to build something new; every challenge is an invitation to learn; and every project is a space where imagination can become reality. I love creating digital experiences focused on design and user experience, where aesthetics and functionality work together in harmony.
 
-Siempre aprendiendo, experimentando y construyendo el próximo paso entre una idea y su creación.
+Always learning, experimenting, and building the next step between an idea and its creation.
