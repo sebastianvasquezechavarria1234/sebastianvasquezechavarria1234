@@ -1,27 +1,10 @@
 <p align="center">
   <img src="./bg.jfif" alt="Profile Banner" width="100%" />
 </p>
-
 Algunas personas ven una página web. Yo veo cientos de decisiones trabajando juntas para crear una experiencia única.
 
-💻 Full Stack Developer
+Me apasiona transformar ideas en experiencias digitales donde la creatividad encuentra su lugar en el código. A través del desarrollo Full Stack, la Inteligencia Artificial y la web 3D, busco dar vida a proyectos que no solo funcionen, sino que también inspiren.
 
-Me apasiona transformar ideas en productos digitales. Desde la primera línea de código hasta la última interacción, disfruto construir aplicaciones donde cada pieza tiene un propósito y cada detalle aporta valor.
+Cada línea de código es una oportunidad para construir algo nuevo; cada desafío, una invitación a aprender; y cada proyecto, un espacio donde la imaginación puede convertirse en realidad.
 
-🤖 Integración de IA
-
-La Inteligencia Artificial abrió una nueva forma de crear. Exploro herramientas como OpenAI y Groq para desarrollar experiencias más inteligentes, capaces de entender, asistir y sorprender a quienes las utilizan.
-
-🌐 Experiencias Web 3D
-
-Las mejores experiencias no siempre ocurren en el mundo físico. Con Three.js y WebGL doy vida a espacios digitales donde el movimiento, la interacción y la creatividad se encuentran.
-
-Tecnologías
-Frontend      React • Astro • JavaScript • TypeScript • Tailwind CSS
-Backend       Node.js • Express
-Bases de Datos MySQL • MongoDB
-IA            OpenAI • Groq
-3D            Three.js • WebGL
-Herramientas  Git • GitHub • Figma
-
-Siempre aprendiendo, experimentando y buscando nuevas formas de convertir la imaginación en tecnología.
+Siempre aprendiendo, experimentando y construyendo el próximo paso entre una idea y su creación.
