@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="./bg.jfif" alt="Profile Banner" width="100%" />
-</p>
-
-
-
 # 👋 Hi, I'm Sebastián
 
 I am passionate about transforming ideas into digital experiences where creativity finds its place in code. Through Full Stack development, [Artificial Intelligence](https://cosmos-museum.vercel.app/) and [3D Web](https://cosmos-museum.vercel.app/), I strive to bring projects to life that not only work, but also inspire.
